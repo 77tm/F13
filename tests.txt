@@ -1,0 +1,11 @@
+Ievads                Programmas vēlamā reakcija        C++
+
+123teksts                       234teksts                +
+
+teksts345                       teksts456                +
+
+te1ks2t3s                       te2ks3t4s                +
+
+1234567890                      2345678901               +
+
+-4                                  -3                   +
